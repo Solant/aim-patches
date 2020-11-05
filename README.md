@@ -1,5 +1,5 @@
 # aim-patches
-Some patches for A.I.M. executable found during reverse engineering
+Some patches for A.I.M. executable found during reverse engineering, target executable version is 1.0.6.3
 
 | Description                    | Address | Original Value | Patched Value |
 |--------------------------------|---------|----------------|---------------|
